@@ -1,9 +1,9 @@
 # Define display_board that accepts a board and prints
 # out the current state.
-def display_board(spot)
-puts " O |   |   "
+def display_board(rows)
+puts "   |   |   "
 puts "-----------"
-puts "   | X |   "
+puts "   |   |   "
 puts "-----------"
 puts "   |   |   "
 end
