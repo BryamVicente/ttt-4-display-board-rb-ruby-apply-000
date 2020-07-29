@@ -3,8 +3,8 @@
 def display_board(spot)
 end
 
-puts "   |   |   "
-puts "-----------"
-puts "   |   |   "
-puts "-----------"
-puts "   |   |   "
+    |   |
+ -----------
+    |   |
+ -----------
+    |   |
